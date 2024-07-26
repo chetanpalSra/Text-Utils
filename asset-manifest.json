@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chetanpalSra/Text-Utils/static/css/main.3aad8498.css",
+    "main.js": "/chetanpalSra/Text-Utils/static/js/main.beefb30f.js",
+    "static/js/453.ed3810f9.chunk.js": "/chetanpalSra/Text-Utils/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/chetanpalSra/Text-Utils/index.html",
+    "main.3aad8498.css.map": "/chetanpalSra/Text-Utils/static/css/main.3aad8498.css.map",
+    "main.beefb30f.js.map": "/chetanpalSra/Text-Utils/static/js/main.beefb30f.js.map",
+    "453.ed3810f9.chunk.js.map": "/chetanpalSra/Text-Utils/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aad8498.css",
+    "static/js/main.beefb30f.js"
+  ]
+}
